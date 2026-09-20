@@ -1,0 +1,69 @@
+---
+title: "GoodGrain Home Baking Evaluation"
+subtitle: "Information sheet in English"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    anchor-sections: true
+---
+
+## Introduction
+
+If you are receiving this information sheet, it means you have expressed interest in conducting a home baking evaluation of a new bread rye variety that is perennial, in contrast to the annual bread rye varieties which society currently uses. Thank you! This sheet is meant to give you more in-depth information about this new variety, so you can decide if you would like to participate.
+
+![This information sheet is meant to aid you in your decision of whether or not to participate in the GoodGrain Home Baking Evaluation (steps circled in red). Attendance to the GoodGrain field day and symposium are optional, and are not required for participation in the Home Baking Evaluation.](images/figure-1.png){fig-cap="Figure 1." width="85%"}
+
+## What happens next?
+
+1.  Watch the \[Informational Video — link to be added\] (in English) and/or read this Informational Sheet or \[the Danish version — link to be added\].
+2.  After watching the video and/or reading, if you decide you would like to participate in our research, complete the \[intake form — link to be added\].
+
+## Information sheet
+
+### An overview of the project
+
+As a citizen scientist, you will be given approximately 1 kg of perennial bread rye flour. You will need to purchase any additional ingredients you need to do your baking. You will be asked to take notes during your baking and use them to fill out a follow-up survey. Upon completion of the follow-up survey, you will be sent a small thank you gift (see Figure 1).
+
+In 2027, the project will also host a field day where you can see the perennial bread rye growing, and in the fall there will be a symposium to share current knowledge about perennial bread rye with everyone across the value chain (researchers, breeders, farmers, millers, bakers, and bread eaters). Attendance to those events is free, and optional.
+
+This citizen science project is part of a NNF Plant2Food research project (Grant #NNF22SA0081019) being conducted at the Department of Agroecology and Food Science at Aarhus University in Denmark in collaboration with Meyers, as well as Wageningen University and Research in the Netherlands. It is important to us to engage our communities in research to share what we are learning and also learn from each of you.
+
+### More detailed background and resources for the curious
+
+Broadly speaking, all plants fall roughly into two categories: perennial and annual. Perennial plants live for more than one year, while annual plants do not. In nature, perennial plants are very common. Think of a neighborhood park: there will be trees, grass, maybe some roses. These are all perennial plants. In contrast, if you think of your kitchen garden, many of those plants are annuals, and you have to re-plant them every year (for example radishes, lettuce, or cucumbers). This general pattern of ‘perennials in nature, annuals in agriculture’ is actually seen at a global scale. And while we do have a lot of wonderful perennial crops, the crops we use the most (and the ones we plant on the most land) are annuals.
+
+![Globally, perennial plants are much more common compared to annuals. There is an over-representation of annuals in our agricultural crops, which is even more pronounced when you look at the area planted to annual versus perennial crops. Crops we use to make breads (wheat, barley, rye, maize, oats, sorghum, teff, millet, rice) are all annual crops. Figure created by Virginia Nichols.](images/figure-2.png){fig-cap="Figure 2." width="85%"}
+
+Did humans just happen to domesticate annual crops for their staple foods? Or are annual plants just superior to perennials for food production? These questions are currently being debated. However, regardless of how we got here, everyone seems to agree that having more perennials integrated into our agricultural land, in some way, would be good for the environment. This is because perennials tend to offer benefits to the overall environment; they help put carbon into the soil, they provide soil cover year-round, and they use resources like water and nitrogen more efficiently.
+
+Society has long recognized the potential benefits of a perennial grain. There have been efforts to breed perennial wheat in the Soviet Union since the 1930s! In the past, it has been a very difficult task, mainly because scientists had few tools to see what was going on inside the plant’s genetics. Despite these challenges, a few laboratories got lucky and had some successes, including one in Germany at the University of Hohenheim. There, Dr. Reimann-Philips and his team successfully crossed an annual rye with a perennial ancestor in the 1960s. The team tested the results, and made more selections. The resulting crop was perennial (Figure 3), and in 199X it was submitted to be considered as a variety in Germany.
+
+![Annual bread rye is sown in the fall, and the crop dies in late summer before the grain is harvested. Perennial bread rye is also sown in the fall, and while the growth from that year dies and grain is harvested just like in the annual crop, the roots stay alive and the crop regrows once light can hit the base of the plant. This new growth acts just like a crop that is sown in the fall…except you didn’t have to sow it.](images/figure-3.png){fig-cap="Figure 3." width="85%"}
+
+But…the government didn’t think anyone would want to grow such a crop, so it was pushed aside to study new and more promising things. The breeders maintained some plots as a passion project, but it hasn’t gotten anyone’s full attention for the past thirty years. In 2023, Dr. Thomas Miedaner, who took over the University of Hhenheim’s rye breeding program after Dr. Reimann-Philips’ passing, shared some seeds of this neglected and forgotten crop with researchers at Aarhus University.
+
+In 2025 we tested it side-by-side against a high-yielding annual rye. We were very impressed when it produced half of the grain yield of the modern annual, given that it was crossed with varieties from the 1960s! We think this variety deserves more development, and this grant is part of that effort. One of the goals of the grant is to understand how this new perennial bread rye performs in home kitchens, and to hear how people feel about this new perennial grain.
+
+## Answers to some common questions
+
+### Is this perennial bread rye genetically modified using new breeding technologies?
+
+No, this variety was developed using traditional breeding methods, involving crossing plants by hand, and making selections based on their physical characteristics.
+
+### Is it safe to eat?
+
+Yes. The European Union recognizes it as a safe food to eat, due to its genetic background and similarity to annual cereal rye. The grain used to make the flour was also tested at an independent laboratory for commercial use, which included an analysis of mycotoxins. You can access the lab results \[here — link to be added\] and they will be sent to you along with the flour.
+
+### Is this grain organic?
+
+Aarhus University does not have any organically certified land due to the costs and additional administrative complexity that would entail. However, this grain was grown without the use of pesticides.
+
+### Can I buy this flour somewhere?
+
+Perennial bread rye is not currently available commercially, however it may be in the near future.
+
+### How long would this crop continue to produce grain?
+
+It has not been tested extensively at this point, but it seems the perennial cereal rye reliably produces grain for at least two years. After this time weeds and diseases may become problems, but we need more research to determine the optimal way to manage the crop.
