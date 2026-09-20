@@ -1,6 +1,6 @@
 ---
-title: "GoodGrain – hjemmebagningsevaluering"
-subtitle: "Informationsark"
+title: "Informationsark (Dansk)"
+subtitle: "GoodGrain Hjemmebagningsevaluering"
 lang: da
 format:
   html:

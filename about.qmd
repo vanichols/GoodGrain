@@ -1,9 +1,28 @@
 ---
-title: "About"
+title: "About GoodGrain"
 ---
 
-About this site
+## About this website
 
-```{r}
-1 + 1
-```
+This website is dedicated to the **GoodGrain Home Baking Evaluation**, a citizen science activity that invites participants to bake with flour made from a new perennial bread rye and share their observations through a follow-up survey.
+
+The home baking evaluation is one part of the larger **GoodGrain** research project. It focuses on how this novel perennial rye performs in home kitchens and on learning about people's experiences with this new grain.
+
+## About the GoodGrain project
+
+GoodGrain—*Assessing Food Safety, Quality, and Nutrition in Novel Climate-Friendly Perennial Cereal*—investigates the potential of perennial cereal rye as a more sustainable crop. Unlike annual rye, which must be sown each year, perennial rye can regrow after harvest. This may offer benefits such as reduced soil disturbance, improved nutrient capture, greater flexibility for farmers, and increased resilience to weather extremes.
+
+The project addresses important knowledge gaps about perennial cereal rye, including:
+
+- **Food safety:** examining naturally occurring contaminants in perennial and annual rye across fields and years.
+- **Grain quality and baking:** evaluating grain properties and baking performance, from laboratory analyses to bakery trials.
+- **Nutrition and soil health:** exploring relationships between perennial growth, soil health, and beneficial compounds such as ergothioneine.
+- **Knowledge sharing:** connecting researchers, farmers, food businesses, and other stakeholders, and openly sharing project findings.
+
+GoodGrain brings together expertise from Aarhus University and Wageningen University & Research, in collaboration with the industry partner Meyers. The project is funded through Plant2Food.
+
+## Learn more
+
+For the full project description, background, activities, partners, and updates, visit the main GoodGrain project website:
+
+[**GoodGrain – Plant2Food**](https://projects.au.dk/plant2food/funded-projects/goodgrain)

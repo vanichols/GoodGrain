@@ -8,11 +8,12 @@ website:
       - href: about.qmd
         text: Home
 
+      - href: index-en.qmd
+        text: English
+        
       - href: index-da.qmd
         text: Dansk
 
-      - href: index.qmd
-        text: English
 
 format:
   html:

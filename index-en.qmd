@@ -13,7 +13,7 @@ format:
 
 If you are receiving this information sheet, it means you have expressed interest in conducting a home baking evaluation of a new bread rye variety that is perennial, in contrast to the annual bread rye varieties which society currently uses. Thank you! This sheet is meant to give you more in-depth information about this new variety, so you can decide if you would like to participate.
 
-![This information sheet is meant to aid you in your decision of whether or not to participate in the GoodGrain Home Baking Evaluation (steps circled in red). Attendance to the GoodGrain field day and symposium are optional, and are not required for participation in the Home Baking Evaluation.](images/figure-1.png){fig-cap="Figure 1." width="85%"}
+![![](images/clipboard-1088090283.png)This information sheet is meant to aid you in your decision of whether or not to participate in the GoodGrain Home Baking Evaluation (steps circled in red). Attendance to the GoodGrain field day and symposium are optional, and are not required for participation in the Home Baking Evaluation.](images/figure-1.png){fig-cap="Figure 1." width="85%"}
 
 ## What happens next?
 
@@ -42,7 +42,7 @@ Society has long recognized the potential benefits of a perennial grain. There h
 
 ![Annual bread rye is sown in the fall, and the crop dies in late summer before the grain is harvested. Perennial bread rye is also sown in the fall, and while the growth from that year dies and grain is harvested just like in the annual crop, the roots stay alive and the crop regrows once light can hit the base of the plant. This new growth acts just like a crop that is sown in the fall…except you didn’t have to sow it.](images/figure-3.png){fig-cap="Figure 3." width="85%"}
 
-But…the government didn’t think anyone would want to grow such a crop, so it was pushed aside to study new and more promising things. The breeders maintained some plots as a passion project, but it hasn’t gotten anyone’s full attention for the past thirty years. In 2023, Dr. Thomas Miedaner, who took over the University of Hhenheim’s rye breeding program after Dr. Reimann-Philips’ passing, shared some seeds of this neglected and forgotten crop with researchers at Aarhus University.
+But…the government didn’t think anyone would want to grow such a crop, so it was pushed aside and became a side project. The breeders maintained some plots as their passion project, and while some of the material was later released as a wildlife forage crop, the perennial grain hasn’t gotten anyone’s full attention for the past thirty years. In 2023, Dr. Thomas Miedaner, who took over the University of Hohenheim’s rye breeding program after Dr. Reimann-Philips’ passing, shared some seeds of this neglected and forgotten crop with researchers at Aarhus University.
 
 In 2025 we tested it side-by-side against a high-yielding annual rye. We were very impressed when it produced half of the grain yield of the modern annual, given that it was crossed with varieties from the 1960s! We think this variety deserves more development, and this grant is part of that effort. One of the goals of the grant is to understand how this new perennial bread rye performs in home kitchens, and to hear how people feel about this new perennial grain.
 
