@@ -9,10 +9,10 @@ website:
         text: Home
 
       - href: index-en.qmd
-        text: English
+        text: English Informational Sheet
         
       - href: index-da.qmd
-        text: Dansk
+        text: Dansk Informationsark
 
 
 format:
