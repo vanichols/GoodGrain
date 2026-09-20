@@ -1,28 +1,35 @@
----
-title: "About GoodGrain"
----
+# About the GoodGrain Home Baking Project
 
-## About this website
+This website is dedicated to the **GoodGrain Home Baking Project**, a home baking initiative that is part of the larger GoodGrain research grant.
 
-This website is dedicated to the **GoodGrain Home Baking Evaluation**, a citizen science activity that invites participants to bake with flour made from a new perennial bread rye and share their observations through a follow-up survey.
+The broader project explores how perennial cereal rye might contribute to more sustainable food systems. Compared with annual cereals, perennial crops can offer benefits such as reduced soil disturbance, deeper and more persistent root systems, improved nutrient capture, and greater resilience to weather extremes. However, important questions remain about the safety, quality, and nutritional properties of grain harvested from perennial cereals.
 
-The home baking evaluation is one part of the larger **GoodGrain** research project. It focuses on how this novel perennial rye performs in home kitchens and on learning about people's experiences with this new grain.
+The broader GoodGrain project investigates these questions by:
 
-## About the GoodGrain project
+- Assessing natural contaminants, including fungal alkaloids, in perennial and annual rye.
+- Evaluating grain and baking quality, from laboratory analyses to bakery trials.
+- Exploring relationships between perennial cropping, soil health, and potentially beneficial compounds such as ergothioneine.
+- Connecting researchers with farmers, food businesses, retailers, and policymakers, and sharing results openly.
 
-GoodGrain—*Assessing Food Safety, Quality, and Nutrition in Novel Climate-Friendly Perennial Cereal*—investigates the potential of perennial cereal rye as a more sustainable crop. Unlike annual rye, which must be sown each year, perennial rye can regrow after harvest. This may offer benefits such as reduced soil disturbance, improved nutrient capture, greater flexibility for farmers, and increased resilience to weather extremes.
+The **Home Baking Project** brings this research into people’s kitchens. By inviting participants to bake with rye flour and share their experiences, we aim to learn more about how perennial rye flour performs in everyday baking and how people respond to it.
 
-The project addresses important knowledge gaps about perennial cereal rye, including:
+Learn more about the wider research project on the [GoodGrain project website](https://projects.au.dk/plant2food/funded-projects/goodgrain).
 
-- **Food safety:** examining naturally occurring contaminants in perennial and annual rye across fields and years.
-- **Grain quality and baking:** evaluating grain properties and baking performance, from laboratory analyses to bakery trials.
-- **Nutrition and soil health:** exploring relationships between perennial growth, soil health, and beneficial compounds such as ergothioneine.
-- **Knowledge sharing:** connecting researchers, farmers, food businesses, and other stakeholders, and openly sharing project findings.
+------------------------------------------------------------------------
 
-GoodGrain brings together expertise from Aarhus University and Wageningen University & Research, in collaboration with the industry partner Meyers. The project is funded through Plant2Food.
+# Om GoodGrain-projektet for hjemmebagning
 
-## Learn more
+Denne hjemmeside er dedikeret til **GoodGrain-projektet for hjemmebagning**, et initiativ, hvor folk inviteres til at bage derhjemme som en del af det større GoodGrain-forskningsprojekt.
 
-For the full project description, background, activities, partners, and updates, visit the main GoodGrain project website:
+Projektet undersøger, hvordan flerårig rug kan bidrage til mere bæredygtige fødevaresystemer. Sammenlignet med etårige kornsorter kan flerårige afgrøder have fordele såsom mindre jordbearbejdning, dybere og mere vedvarende rodsystemer, bedre næringsstofoptagelse og større modstandsdygtighed over for ekstreme vejrforhold. Der er dog stadig vigtige spørgsmål om sikkerheden, kvaliteten og næringsindholdet i korn høstet fra flerårige kornsorter.
 
-[**GoodGrain – Plant2Food**](https://projects.au.dk/plant2food/funded-projects/goodgrain)
+Det overordnede GoodGrain-projekt undersøger disse spørgsmål ved at:
+
+- Undersøge forekomsten af naturlige forurenende stoffer, herunder svampealkaloider, i flerårig og etårig rug.
+- Evaluere kornets kvalitet og bageegenskaber – fra laboratorieanalyser til bageforsøg i bagerier.
+- Undersøge sammenhænge mellem flerårig dyrkning, jordens sundhed og potentielt gavnlige forbindelser såsom ergothionein.
+- Skabe kontakt mellem forskere, landmænd, fødevarevirksomheder, detailhandlen og beslutningstagere samt dele resultaterne åbent.
+
+**Hjemmebagningsprojektet** bringer forskningen ind i folks køkkener. Ved at invitere deltagere til at bage med rugmel og dele deres erfaringer ønsker vi at lære mere om, hvordan mel fra flerårig rug fungerer i hverdagsbagning, og hvordan folk oplever det.
+
+Læs mere om det overordnede forskningsprojekt på [GoodGrain-projektets hjemmeside](https://projects.au.dk/plant2food/funded-projects/goodgrain).
