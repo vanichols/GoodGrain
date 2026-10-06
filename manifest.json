@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "locale": "da_DK",
+  "platform": "4.6.1",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "about.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.9.38",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    ".Rprofile": {
+      "checksum": "4c54a24ed6ad083bf5e5478c9a03e081"
+    },
+    "_quarto.yml": {
+      "checksum": "620de92538579f3ca370d4dabc65c094"
+    },
+    "_site/about.html": {
+      "checksum": "527c221f3436463c9009ceaa021796fa"
+    },
+    "_site/documents/LabResults2025.pdf": {
+      "checksum": "07e2594ad4973e63355d01d225b552c5"
+    },
+    "_site/images/clipboard-1088090283.png": {
+      "checksum": "e22de906a65a412e012e5bea5067468b"
+    },
+    "_site/images/figure-1.png": {
+      "checksum": "e22de906a65a412e012e5bea5067468b"
+    },
+    "_site/images/figure-2.png": {
+      "checksum": "eb4330d2149f14b9995bf9be47599836"
+    },
+    "_site/images/figure-3.png": {
+      "checksum": "cab5901f80c42ca3908a9f4ea5c2da06"
+    },
+    "_site/index-da.html": {
+      "checksum": "e648ce0e2f11c42319de4e9bc0ddc1de"
+    },
+    "_site/index-en.html": {
+      "checksum": "10015b978532e2aca24f98c15858006b"
+    },
+    "_site/index.html": {
+      "checksum": "451efa7b81e1f352fe2a9f90edce32f9"
+    },
+    "_site/search.json": {
+      "checksum": "ca42e7917671b49da6e7bf698644b20b"
+    },
+    "_site/site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css": {
+      "checksum": "a0f9fd0d421825b736dc1bbcbcba2219"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "886da841d7421705f715f600c5ff11bb"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "efe54401ef52214fd3b701e23ff88c5f"
+    },
+    "_site/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "_site/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "_site/site_libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "_site/site_libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "_site/site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css": {
+      "checksum": "15634bcf2e68342d4ad2dfa704d543f6"
+    },
+    "_site/site_libs/quarto-html/quarto.js": {
+      "checksum": "6f4245742deb3cc92337dbe2701ccfe1"
+    },
+    "_site/site_libs/quarto-html/tabsets/tabsets.js": {
+      "checksum": "e8d6a8862b33ccc461f8fd532e05b365"
+    },
+    "_site/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "_site/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "_site/site_libs/quarto-nav/headroom.min.js": {
+      "checksum": "ace0360e576db9b6e7df48ac68ddbbf4"
+    },
+    "_site/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "12d334846b27bdb493298c08277bdf7f"
+    },
+    "_site/site_libs/quarto-search/autocomplete.umd.js": {
+      "checksum": "b514204f2ef1ca7a8e2ad4579d263504"
+    },
+    "_site/site_libs/quarto-search/fuse.min.js": {
+      "checksum": "de7d60e4a6881074275feca14b84a49d"
+    },
+    "_site/site_libs/quarto-search/quarto-search.js": {
+      "checksum": "9c992af743ca88c8c5f650cf312c4e61"
+    },
+    "_site/styles.css": {
+      "checksum": "e31c3cdea03dfab8a29456978017bd10"
+    },
+    "about.qmd": {
+      "checksum": "aa90231a9ad772cd9cf10ee1aaa01a1d"
+    },
+    "documents/informational sheet power point.pptx": {
+      "checksum": "beb5441a97d130200f202bebbdec2602"
+    },
+    "documents/LabResults2025.pdf": {
+      "checksum": "07e2594ad4973e63355d01d225b552c5"
+    },
+    "images/figure-1.png": {
+      "checksum": "e22de906a65a412e012e5bea5067468b"
+    },
+    "images/figure-2.png": {
+      "checksum": "eb4330d2149f14b9995bf9be47599836"
+    },
+    "images/figure-3.png": {
+      "checksum": "cab5901f80c42ca3908a9f4ea5c2da06"
+    },
+    "index-da.qmd": {
+      "checksum": "9295ade1e1d947e3dddf8b74c5f0b2da"
+    },
+    "index-en.qmd": {
+      "checksum": "12096582d2525868945f99d59564bc6b"
+    },
+    "renv.lock": {
+      "checksum": "3d4af9631d177439c831d97547a819d6"
+    },
+    "styles.css": {
+      "checksum": "e31c3cdea03dfab8a29456978017bd10"
+    }
+  },
+  "users": null
+}
