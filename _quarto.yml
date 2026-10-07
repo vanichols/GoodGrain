@@ -3,7 +3,9 @@ project:
 
 website:
   title: "GoodGrain"
-  navbar:
+ navbar:
+    title: "GoodGrain"
+    title-href: about.qmd
     left:
       - href: about.qmd
         text: Home
@@ -23,4 +25,3 @@ format:
     toc: true
 
 editor: visual
-
