@@ -3,18 +3,17 @@ project:
 
 website:
   title: "GoodGrain"
- navbar:
+  navbar:
     title: "GoodGrain"
     title-href: about.qmd
     left:
       - href: about.qmd
-        text: Home
-
+        text: About
       - href: index-en.qmd
-        text: English Informational Sheet
-        
+        text: English Informational Sheet 
       - href: index-da.qmd
-        text: Dansk Informationsark
+        text: Dansk
+
 
 format:
   html:
