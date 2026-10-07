@@ -5,15 +5,13 @@ website:
   title: "GoodGrain"
   navbar:
     title: "GoodGrain"
-    title-href: about.qmd
     left:
       - href: about.qmd
         text: About
-      - href: index-en.qmd
-        text: English Informational Sheet 
+      - href: index.qmd
+        text: English Informational Sheet
       - href: index-da.qmd
         text: Dansk
-
 
 format:
   html:
