@@ -1,6 +1,10 @@
-# About the GoodGrain Home Baking Project
+# ![](images/GoodGrain logo.png)About the GoodGrain Home Baking Project
 
-This website is dedicated to the **GoodGrain Home Baking Project**, a home baking initiative that is part of the larger GoodGrain research grant.
+This website is dedicated to the **GoodGrain Home Baking Project**, a home baking initiative that is part of the larger GoodGrain research grant. Here you can read:
+
+- The Informational Sheet in English
+
+- The Informational Sheet in Danish
 
 The broader project explores how perennial cereal rye might contribute to more sustainable food systems. Compared with annual cereals, perennial crops can offer benefits such as reduced soil disturbance, deeper and more persistent root systems, improved nutrient capture, and greater resilience to weather extremes. However, important questions remain about the safety, quality, and nutritional properties of grain harvested from perennial cereals.
 
