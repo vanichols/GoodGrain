@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: English Informational Sheet
       - href: index-da.qmd
-        text: Dansk
+        text: Dansk informationsark
 
 format:
   html:
