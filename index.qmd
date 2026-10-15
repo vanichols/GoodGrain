@@ -12,7 +12,7 @@ format:
 
 # Introduction
 
-If you are receiving this Informational Sheet, it means you have expressed interest in conducting a home baking evaluation using a new perennial variety of rye. **Thank you!** This sheet is meant to give you more information about this new variety, so you can decide if you would like to participate.
+If you are receiving this Informational Sheet, it means you have expressed interest in conducting a home baking evaluation using a new perennial variety of rye. **Thank you!** This sheet is meant to give you more information about this new variety, so you can decide if you would like to participate. When you expressed interest, you agreed to our data policy, which you can read again here: [GoodGrain General Data Protection Regulation (PDF)](documents/GDPdocument.pdf){target="_blank"}.
 
 ![Reading this *Informational Sheet* is meant to aid you in your decision of whether or not to participate in the GoodGrain Home Baking Evaluation. Attendance to the GoodGrain field day GoodGrain and symposium are optional, and are not required for participation in the Home Baking Evaluation.](images/figure-1.png){fig-cap="Figure 1." width="85%"}
 
