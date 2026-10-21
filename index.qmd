@@ -10,26 +10,28 @@ format:
     anchor-sections: true
 ---
 
-# Introduction
+# Informational Sheet
 
-If you are receiving this Informational Sheet, it means you have expressed interest in conducting a home baking evaluation using a new perennial variety of rye. **Thank you!** This sheet is meant to give you more information about this new variety, so you can decide if you would like to participate. When you expressed interest, you agreed to our data policy, which you can read again here: [GoodGrain General Data Protection Regulation (PDF)](documents/GDPdocument.pdf){target="_blank"}.
+If you are receiving this Informational Sheet, it means you have expressed interest in conducting a home baking evaluation using a new perennial variety of rye. **Thank you!**
+
+This sheet is meant to give you more information about this new variety and the study, so you can decide if you would like to participate. When you expressed interest, you agreed to our data policy, which you can read again here: [GoodGrain General Data Protection Regulation (PDF)](documents/GDPdocument.pdf){target="_blank"}.
 
 ![Reading this *Informational Sheet* is meant to aid you in your decision of whether or not to participate in the GoodGrain Home Baking Evaluation. Attendance to the GoodGrain field day GoodGrain and symposium are optional, and are not required for participation in the Home Baking Evaluation. Image made by Virginia Anne Nichols using Biorender.](images/figure-1.png){fig-cap="Figure 1." width="85%"}
 
 # What happens next?
 
-1.  Watch the \[Informational Video — link to be added\] (in English) or read this Informational Sheet in English or Danish.
-2.  After watching the video or reading, if you decide you would like to participate in our research, complete the intake form that was emailed to you.
+1.  Read this Informational Sheet in English or Danish, or watch the \[Informational Video — link to be added\] in English.
+2.  After reading or watching the video, if you decide you would like to participate in our research, *complete the intake form* that was emailed to you.
 
-# An overview of the project
+# An overview of the GoodGrain project
 
 All of the crops commonly used to make bread are annuals (for example wheat, oats, and rye). This means they are sown, produce one grain harvest per year, then must be sown again. If a crop were perennial and lived for several years, it could produce two or three grain harvests from one sowing. This would save the farmer a lot of work (and tractor driving). Furthermore, by allowing the crop to remain in the field for many years without disturbing the soil, the perennial grain could potentially develop more roots, which would be better at taking up nutrients and water, would sequester more carbon and would feed the soil biology. There is more information presented about the idea and the history of perennial grains in the '***For the curious***' section below.
 
 A few varieties of perennial grains have recently become available, including a perennial rye grain. This new variety is being tested in the field to evaluate how it grows in Denmark, as well as how it impacts the environment as compared to an annual rye crop. The **GoodGrain** project is meant to build on that knowledge by looking specifically at the new perennial rye's grain characteristics. One of those characteristics is its baking quality. It is important to the **GoodGrain** project to engage with our communities in this effort. You can read a bit more about the project [here](https://projects.au.dk/plant2food/funded-projects/goodgrain).
 
-# What is expected of me as a participant?
+# What is expected of me as a participant in the GoodGrain home baking study?
 
-The main goals of this study are to:
+The main goals of this home baking study are to:
 
 1.  Start to understand the best uses for this perennial rye for home bakers
 2.  Identify some potential perennial rye flour performance areas that require further agronomic or breeding research
@@ -41,7 +43,7 @@ As a citizen scientist, we will provide you with either 400 or 800 grams of flou
 
 You will need to purchase any additional ingredients you need to do your baking.
 
-You will be provided with a sheet to guide your note-taking during your baking, which you can use to fill out post-baking survey. In the post-baking survey, there are three general sections:
+You will be provided with a sheet to guide your note-taking during your baking, which you can use to fill out the post-baking survey. In the post-baking survey, there are three general sections:
 
 1.  Simple demographic information about everyone who was involved in the baking (we know some people may bake on their own, while others may bake with their kids, parents, or partners)
 2.  A description of what you made
