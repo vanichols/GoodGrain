@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: English Informational Sheet
       - href: index-da.qmd
-        text: Dansk informationsark
+        text: Dansk Informationsark
       - href: video.qmd
-        text: Video
+        text: English Informational Video
       - href: about.qmd
         text: About
      
