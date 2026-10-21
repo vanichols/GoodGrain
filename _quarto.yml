@@ -10,7 +10,7 @@ website:
         text: English Informational Sheet
       - href: index-da.qmd
         text: Dansk informationsark
-      - href: Video.qmd
+      - href: video.qmd
         text: Video
       - href: about.qmd
         text: About
