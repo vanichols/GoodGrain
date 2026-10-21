@@ -6,12 +6,15 @@ website:
   navbar:
     title: "GoodGrain"
     left:
-      - href: about.qmd
-        text: About
       - href: index.qmd
         text: English Informational Sheet
       - href: index-da.qmd
         text: Dansk informationsark
+      - href: Video.qmd
+        text: Video
+      - href: about.qmd
+        text: About
+     
 
 format:
   html:
