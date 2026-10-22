@@ -1,12 +1,14 @@
-# ![](images/GoodGrain%20logo.png){width="100"}About the GoodGrain Home Baking Project
+# ![](images/GoodGrain%20logo.png){width="100"}About the GoodGrain Home Baking Evaluation
 
-This website is dedicated to the **GoodGrain Home Baking Project**, a home baking initiative that is part of the larger GoodGrain research grant. Here you can read:
+This website was built to provide access to documents related to the **GoodGrain Home Baking Evaluation**, a home baking initiative that is part of the larger GoodGrain research grant. On this website you can access:
 
 - The Informational Sheet in English
 
 - The Informational Sheet in Danish
 
 - The Informational Video in English
+
+- The lab results from the flour: [GoodGrain Lab Results (PDF)](documents/LabResults2025.pdf){target="_blank"}
 
 The big picture of this research is to explore how perennial cereal rye might contribute to more sustainable food systems. We are researching how the crop behaves in the field, however important questions remain about the safety, quality, and nutritional properties of grain harvested from perennial rye.
 

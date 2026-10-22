@@ -12,6 +12,8 @@ website:
         text: Dansk Informationsark
       - href: video.qmd
         text: English Informational Video
+      - href: events.qmd
+        text: Events
       - href: about.qmd
         text: About
      
