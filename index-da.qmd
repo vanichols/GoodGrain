@@ -1,7 +1,7 @@
 ---
 title: "GoodGrain Hjemmebagningsevaluering"
 subtitle: "Informationsark (Dansk)"
-author: Virginia Anne Nichols (gina.nichols@agro.au.dk) with translation help from XX
+author: Virginia Anne Nichols (gina.nichols@agro.au.dk) with translation help from Michael Panting
 lang: da
 format:
   html:
@@ -19,7 +19,7 @@ Hvis du modtager dette informationsark, betyder det, at du har vist interesse fo
 
 # Hvad sker der nu?
 
-1.  Læs dette informationsark på engelsk eller dansk eller se \[informationsvideoen – link tilføjes senere\] (på engelsk).
+1.  Læs dette informationsark på engelsk eller dansk eller se [informationsvideoen](https://agro-nichols-goodgrain.share.connect.posit.cloud/video.html) (på engelsk).
 
 2.  Når du har læst informationsarket eller set videoen, kan du *udfylde det tilmeldingsskema*, som du har modtaget via e-mail, hvis du beslutter dig for at deltage i vores forskning.
 
@@ -31,7 +31,7 @@ Desuden ville en flerårig kornafgrøde potentielt kunne udvikle et større rods
 
 Du kan læse mere om idéen bag flerårige kornafgrøder og deres historie i afsnittet ***Til dig, der er nysgerrig*** nedenfor.
 
-Der er for nylig blevet tilgængelige nogle få sorter af flerårige kornarter, herunder en flerårig rugsort. Denne nye sort afprøves i markforsøg for at undersøge, hvordan den vokser under danske forhold, og hvordan den påvirker miljøet sammenlignet med en etårig rugsort.
+For nyligt er nogle få sorter af flerårige kornarter blevet til gængelige, herunder en flerårig rugsort. Denne nye sort afprøves i markforsøg for at undersøge, hvordan den vokser under danske forhold, og hvordan den påvirker miljøet sammenlignet med en etårig rugsort.
 
 **GoodGrain**-projektet bygger videre på denne viden ved specifikt at undersøge kornegenskaberne hos den nye flerårige rugsort. En af disse egenskaber er bagekvaliteten. Det er vigtigt for **GoodGrain**-projektet at inddrage lokalsamfundet i dette arbejde.
 
@@ -47,27 +47,27 @@ De vigtigste formål med denne hjemmebagningsundersøgelse er at:
 
 3.  Undersøge, hvordan folk oplever det at bage med flerårig rug.
 
-Som borgerforsker vil du modtage enten 400 eller 800 gram mel, afhængigt af dit behov. Vi håber, at du vil gennemføre et bageforsøg, hvor du afprøver to versioner side om side: én med den flerårige rug, vi leverer, og én med den rug, du normalt bruger.
+Som borgerforsker vil du modtage enten 400 eller 800 gram mel, afhængigt af dit behov. Vi håber, at du vil gennemføre et bageforsøg, hvor du afprøver to versioner side om side: én med den flerårige rug, vi leverer, og én med den rug du normalt bruger.
 
-Du er også velkommen til at blande rugen med andre kornsorter, hvis det er sådan, du plejer at bage. Hvis du bruger en rugsurdej, kan du prøve at anvende den nye rug i den. Hvis du normalt bager knækbrød, laver pizzadej eller bager småkager, er det også helt fint!
+Du er også velkommen til at blande rugen med andre kornsorter, hvis det er sådan du plejer at bage. Hvis du bruger en rugsurdej kan du prøve at anvende den nye rug i den. Hvis du normalt bager knækbrød, laver pizzadej eller bager småkager er det også helt fint!
 
-Vi vil gerne give dig frihed til at bruge melet til at bage lige det, du har lyst til, og som gør dig glad. Vi beder dig dog om at tilgå forsøget så systematisk som muligt og bage det, du vælger, både med den flerårige rug og med den rug, du normalt bruger.
+Vi vil gerne give dig frihed til at bruge melet til at bage lige det du har lyst til og som gør dig glad. Vi beder dig dog om at tilgå forsøget så systematisk som muligt og bage det du vælger, både med den flerårige rug og med den rug du normalt bruger.
 
-![Vi håber, at du vil bage to versioner side om side: én med den flerårige rug, vi leverer, og én med den rug, du normalt bruger. Billedet er lavet med hjælp fra AI.](images/figure-2.png){alt="Our hope is that you will do a side-by-side bake, using the perennial rye we provide and the rye you normally use."}
+![Vi håber at du vil bage to versioner side om sideÆ en med den flerårige rug vi leverer og en med den rug du nomalt bruger. Billedet er lavet med hjælp fra AI.](images/figure-2.png)
 
 Du skal selv købe eventuelle ekstra ingredienser, som du har brug for til bagningen.
 
 Du vil få udleveret et ark, der hjælper dig med at tage noter under bagningen. Noterne kan du efterfølgende bruge til at udfylde et opfølgende spørgeskema. Spørgeskemaet består af tre overordnede dele:
 
-1.  Enkle demografiske oplysninger om alle, der deltog i bagningen (vi ved, at nogle bager alene, mens andre bager sammen med deres børn, forældre eller partner).
+1.  Enkle demografiske oplysninger om alle der deltog i bagningen (vi ved at nogle bager alene, mens andre bager sammen med deres børn, forældre eller partner).
 
-2.  En beskrivelse af det, du har bagt.
+2.  En beskrivelse af det du har bagt.
 
-3.  Spørgsmål om, hvordan det bagværk, der er lavet med den flerårige rug, adskiller sig fra det, der er lavet med den etårige rug.
+3.  Spørgsmål om hvordan det bagværk der er lavet med den flerårige rug adskiller sig fra det der er lavet med den etårige rug.
 
-Vi forventer, at det tager mellem 15 og 30 minutter at udfylde det opfølgende spørgeskema.
+Vi forventer at det tager mellem 15 og 30 minutter at udfylde det opfølgende spørgeskema.
 
-**Afhængigt af, hvad du vælger at bage, kan hele projektet tage en halv til en hel dag at gennemføre!** Vi er klar over, at det kræver en del tid, og når du har udfyldt det opfølgende spørgeskema, vil du modtage en lille tak-for-hjælpen-gave 🎁.
+**Afhængigt af hvad du vælger at bage, kan hele projektet tage en halv til en hel dag at gennemføre!** Vi er klar over, at det kræver en del tid, og når du har udfyldt det opfølgende spørgeskema, vil du modtage en lille tak-for-hjælpen-gave 🎁.
 
 # Frivillige aktiviteter
 
@@ -97,21 +97,21 @@ Mel fra denne flerårige rugsort er endnu ikke tilgængeligt i handelen. Projekt
 
 Overordnet set kan planter groft opdeles i to kategorier: flerårige og etårige. Flerårige planter lever i mere end ét år, mens etårige planter gennemfører deres livscyklus på ét år.
 
-I naturen er flerårige planter meget almindelige. Tænk for eksempel på en park i dit nabolag eller en skov: Her finder du træer, buske og måske græs. Det er alt sammen flerårige planter. Til gengæld er mange af de planter, du dyrker i køkkenhaven, etårige, hvilket betyder, at du skal så eller plante dem igen hvert år (for eksempel radiser, salat og agurker).
+I naturen er flerårige planter meget almindelige. Tænk for eksempel på en park i dit nabolag eller en skov: Her finder du træer, buske og måske græs. Det er alt sammen flerårige planter. Til gengæld er mange af de planter, du dyrker i køkkenhaven etårige, hvilket betyder at du skal så eller plante dem igen hvert år (for eksempel radiser, salat og agurker).
 
-Dette generelle mønster med »flerårige planter i naturen og etårige planter i landbruget« ses faktisk på globalt plan. Selvom vi har mange fantastiske flerårige afgrøder, såsom æbler, avocadoer og kaffe, er de afgrøder, vi bruger mest, og som dyrkes på de største arealer, etårige. Det kan du se på figuren nedenfor.
+Dette generelle mønster med »flerårige planter i naturen og etårige planter i landbruget« ses faktisk på globalt plan. Selvom vi har mange fantastiske flerårige afgrøder, såsom æbler, avocadoer og kaffe, er de afgrøder vi bruger mest, og som dyrkes på de største arealer, etårige. Det kan du se på figuren nedenfor.
 
-![I naturen er kun 6 % af plantearterne etårige. De tidlige landbrugere ser ud til at have foretrukket etårige planter, da 42 % af de planter, vi på en eller anden måde har domesticeret, er etårige. Selvom mindre end halvdelen af de planter, vi har domesticeret, er etårige, dyrkes **størstedelen** af vores landbrugsarealer med etårige afgrøder. Det skyldes, at størstedelen af de kalorier, mennesker indtager, stammer fra etårige afgrøder som majs, ris, kartofler og hvede. De afgrøder, vi almindeligvis bruger til at bage brød i Danmark (hvede, havre og rug), er alle etårige. Figuren er udarbejdet af Virginia Anne Nichols.](images/figure-3.png){fig-cap="Figur 2."}
+![I naturen er kun 6 % af plantearterne etårige. De tidlige landbrugere ser ud til at have foretrukket etårige planter, da 42 % af de planter, vi på en eller anden måde har domesticeret, er etårige. Selvom mindre end halvdelen af de planter vi har domesticeret er etårige, dyrkes **størstedelen** af vores landbrugsarealer med etårige afgrøder. Det skyldes at størstedelen af de kalorier mennesker indtager, stammer fra etårige afgrøder som majs, ris, kartofler og hvede. De afgrøder vi almindeligvis bruger til at bage brød i Danmark (hvede, havre og rug) er alle etårige. Figuren er udarbejdet af Virginia Anne Nichols.](images/figure-3.png){fig-cap="Figur 2."}
 
-Er etårige planter bedre end flerårige planter til fødevareproduktion? Valgte mennesker *bevidst* at domesticere etårige afgrøder, eller var det blot et tilfælde? Disse spørgsmål diskuteres stadig blandt forskere. Uanset hvordan vi er nået hertil, er det dog tydeligt, at det ville være godt for miljøet at integrere flere flerårige planter i vores landbrugsarealer.
+Er etårige planter bedre end flerårige planter til fødevareproduktion? Valgte mennesker *bevidst* at domesticere etårige afgrøder, eller var det blot et tilfælde? Disse spørgsmål diskuteres stadig blandt forskere. Uanset hvordan vi er nået hertil, er det dog tydeligt at det ville være godt for miljøet at integrere flere flerårige planter i vores landbrugsarealer.
 
 Flerårige planter har generelt en række miljømæssige fordele. Deres omfattende rodsystemer gør dem i stand til at udnytte ressourcer som vand og kvælstof mere effektivt. De bidrager også til at lagre kulstof i jorden og holder jorden dækket hele året. At udvikle flerårige udgaver af vores vigtigste afgrøder, såsom den flerårige rug, der anvendes i dette projekt, er én måde at få flere flerårige planter ind på vores landbrugsarealer.
 
-Mennesker har længe været opmærksomme på de potentielle fordele ved flerårige kornsorter. Allerede siden 1930'erne har man forsøgt at forædle flerårig hvede i Sovjetunionen! Tidligere har det været en meget vanskelig opgave, især fordi forskerne havde begrænsede muligheder for at undersøge, hvad der foregik i planternes genetik. Trods disse udfordringer havde enkelte laboratorier held med arbejdet og opnåede lovende resultater, blandt andet ved Hohenheim Universitet i Tyskland.
+Mennesker har længe været opmærksomme på de potentielle fordele ved flerårige kornsorter. Allerede siden 1930'erne har man forsøgt at forædle flerårig hvede i Sovjetunionen! Tidligere har det været en meget vanskelig opgave, især fordi forskerne havde begrænsede muligheder for at undersøge hvad der foregik i planternes genetik. Trods disse udfordringer havde enkelte laboratorier held med arbejdet og opnåede lovende resultater, blandt andet ved Hohenheim Universitet i Tyskland.
 
-Her lykkedes det i 1960'erne for Dr. Reimann-Philips og hendes team at krydse en etårig rugsort med en ældre, flerårig rugforfader. Teamet afprøvede resultaterne og foretog yderligere udvælgelse af planter med ønskede egenskaber. Den resulterende afgrøde var flerårig (se figuren nedenfor), og i 1990'erne blev den indsendt til vurdering med henblik på at blive godkendt som en sort i Tyskland.
+Her lykkedes det i 1960'erne for Dr. Reimann-Philips og hendes team at krydse en etårig rugsort med en ældre, flerårig rugforfader. Teamet afprøvede resultaterne og foretog yderligere udvælgelse af planter med ønskede egenskaber. Den resulterende afgrøde var flerårig (se figuren nedenfor) og i 1990'erne blev den indsendt til vurdering med henblik på at blive godkendt som en sort i Tyskland.
 
-![Etårig rug sås om efteråret, og planterne visner i sensommeren, inden kornet høstes. Flerårig rug sås også om efteråret. Ligesom hos den etårige rug visner årets overjordiske vækst, og kornet høstes, men rødderne forbliver levende, og planten vokser igen efter høst. Den nye vækst fungerer på samme måde som en afgrøde, der er sået om efteråret – bortset fra, at du ikke behøvede at så den.](images/figure-4.png){fig-cap="Figur 3."}
+![Etårig rug sås om efteråret, og planterne visner i sensommeren, inden kornet høstes. Flerårig rug sås også om efteråret. Ligesom hos den etårige rug visner årets overjordiske vækst, og kornet høstes, men rødderne forbliver levende, og planten vokser igen efter høst. Den nye vækst fungerer på samme måde som en afgrøde, der er sået om efteråret – bortset fra at du ikke behøvede at så den.](images/figure-4.png){fig-cap="Figur 3."}
 
 Den tyske regering afviste ansøgningen af en række komplicerede årsager, og sorten blev aldrig officielt lanceret. Forædlerne bevarede nogle forsøgsparceller som et personligt passionprojekt. Noget af materialet blev senere lanceret som foderafgrøde til vildt, men den flerårige rug har ikke fået den store opmærksomhed i de seneste 30 år.
 
@@ -119,7 +119,7 @@ I 2023 delte Dr. Thomas Miedaner, som overtog Hohenheim Universitets rugforædli
 
 I 2025 afprøvede vi den flerårige rug side om side med en højtydende, etårig rugsort. Vi var meget imponerede over, at den flerårige rug gav halvdelen af kornudbyttet fra den moderne, etårige sort, især når man tager i betragtning, at den flerårige rug stammer fra krydsninger med sorter fra 1960'erne! Den flerårige rug gav igen korn i 2026, men vi har brug for mere forskning for at finde frem til den optimale måde at dyrke og pleje afgrøden på.
 
-Vi mener, at denne sort fortjener at blive videreudviklet, og denne bevilling er en del af det arbejde. Et af målene med projektet er at undersøge, hvordan den nye flerårige rug fungerer i private køkkener, og hvordan folk oplever det at spise korn fra en flerårig afgrøde.
+Vi mener at denne sort fortjener at blive videreudviklet, og denne bevilling er en del af det arbejde. Et af målene med projektet er at undersøge, hvordan den nye flerårige rug fungerer i private køkkener, og hvordan folk oplever det at spise korn fra en flerårig afgrøde.
 
 # Finansiering og projektpartnere
 
