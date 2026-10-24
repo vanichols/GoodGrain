@@ -1,5 +1,7 @@
 # ![](images/GoodGrain%20logo.png){width="100"}Link to Informational Video
 
-You can watch the Informational Video here: (test link) <https://youtu.be/3-nW6tzaD58>
+You can watch the Informational Video here: (test link)
+
+embed_url("<https://youtu.be/3-nW6tzaD58>")
 
 You can watch the For the Curious Video here: (to be added)
