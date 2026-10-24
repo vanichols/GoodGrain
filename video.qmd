@@ -2,6 +2,6 @@
 
 You can watch the Informational Video here: (test link)
 
-embed_url("<https://youtu.be/3-nW6tzaD58>")
+{{< video https://www.youtube.com/watch?v=3-nW6tzaD58 >}}
 
 You can watch the For the Curious Video here: (to be added)
