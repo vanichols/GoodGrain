@@ -27,7 +27,11 @@ This sheet is meant to give you more information about this new variety and the 
 
 All of the crops commonly used to make bread are annuals (for example wheat, oats, and rye). This means they are sown, produce one grain harvest per year, then must be sown again. If a crop were perennial and lived for several years, it could produce two or three grain harvests from one sowing. This would save the farmer a lot of work (and tractor driving). Furthermore, by allowing the crop to remain in the field for many years without disturbing the soil, the perennial grain could potentially develop more roots, which would be better at taking up nutrients and water, would sequester more carbon and would feed the soil biology. There is more information presented about the idea and the history of perennial grains in the '***For the curious***' section below.
 
-A few varieties of perennial grains have recently become available, including a perennial rye grain. This new variety is being tested in the field to evaluate how it grows in Denmark, as well as how it impacts the environment as compared to an annual rye crop. The **GoodGrain** project is meant to build on that knowledge by looking specifically at the new perennial rye's grain characteristics. One of those characteristics is its baking quality. It is important to the **GoodGrain** project to engage with our communities in this effort. You can read a bit more about the project [here](https://projects.au.dk/plant2food/funded-projects/goodgrain).
+A few varieties of perennial grains have recently become available, including a perennial rye grain. This new variety is being tested in the field to evaluate how it grows in Denmark, as well as how it impacts the environment as compared to an annual rye crop. The **GoodGrain** project is meant to build on that knowledge by looking specifically at the new perennial rye's grain characteristics.
+
+![](images/GoodGrainProj.png)
+
+One of those characteristics is its baking quality. It is important to the **GoodGrain** project to engage with our communities in this effort. You can read a bit more about the project [here](https://projects.au.dk/plant2food/funded-projects/goodgrain).
 
 # What is expected of me as a participant in the GoodGrain home baking study?
 

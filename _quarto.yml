@@ -7,11 +7,11 @@ website:
     title: "GoodGrain"
     left:
       - href: index.qmd
-        text: English Informational Sheet
+        text: Info Sheet
       - href: index-da.qmd
-        text: Dansk Informationsark
+        text: Dansk Ark
       - href: video.qmd
-        text: English Informational Video
+        text: Info Video
       - href: events.qmd
         text: Events
       - href: about.qmd
