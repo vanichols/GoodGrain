@@ -1,12 +1,18 @@
-# ![](images/GoodGrain%20logo.png){width="100"}About the GoodGrain Home Baking Evaluation
+![](images/GoodGrain%20logo.png){width="100"}
+
+# About this website
 
 This website was built to provide access to documents related to the **GoodGrain Home Baking Evaluation**, a home baking initiative that is part of the larger GoodGrain research grant. On this website you can access:
 
-- The Informational Sheet in English
+- Informational Sheet in English
 
-- The Informational Sheet in Danish
+- Informational Sheet in Danish
 
-- The Informational Video in English
+- Videos in English
+
+  - The Informational Video
+
+  - 'For the Curious' Video
 
 - The lab results from the flour: [GoodGrain Lab Results (PDF)](documents/LabResults2025.pdf){target="_blank"}
 
