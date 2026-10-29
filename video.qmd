@@ -6,4 +6,6 @@ You can watch the Informational Video here:
 
 {{< video https://youtu.be/VjjByt0A9s4 >}}
 
-You can watch the For the Curious Video here: (to be added)
+You can watch the For the Curious Video here:
+
+{{< video https://youtu.be/GlKS7U0YEbM >}}
