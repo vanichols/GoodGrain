@@ -11,7 +11,7 @@ website:
       - href: index-da.qmd
         text: Dansk Ark
       - href: video.qmd
-        text: Video
+        text: Videos
       - href: events.qmd
         text: Events
       - href: about.qmd
