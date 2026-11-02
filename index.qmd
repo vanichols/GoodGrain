@@ -2,7 +2,9 @@
 
 # GoodGrain Project *Home Baking Evaluation* information
 
-You can read the Informational Sheet here: [Informational Sheet (English PDF)](documents/InfoSheetEnglish.pdf)
+You can read the Informational Sheet as a PDF here: [Informational Sheet (English PDF)](documents/InfoSheetEnglish.pdf)
+
+It is also available on the 'Info (English)' tab.
 
 You can watch the Informational Video (which contains the same information as the Informational Sheet) here:
 
