@@ -2,8 +2,8 @@
 
 # For the Curious
 
-You can read the For the Curious sheet in English here: [For the Curious (English PDF)](documents/CuriousEnglish.pdf)
+You can read the *For the Curious* sheet in English here: [For the Curious (English PDF)](documents/CuriousEnglish.pdf)
 
-You can watch the For the Curious Video here:
+You can watch the *For the Curious* Video here:
 
 {{< video https://youtu.be/GlKS7U0YEbM >}}
