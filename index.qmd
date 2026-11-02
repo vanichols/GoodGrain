@@ -1,114 +1,17 @@
----
-title: "GoodGrain Home Baking Evaluation"
-subtitle: "Informational sheet in English"
-author: Virginia Anne Nichols (gina.nichols@agro.au.dk)
-format:
-  html:
-    toc: true
-    toc-depth: 2
-    number-sections: false
-    anchor-sections: true
----
+![](images/GoodGrain%20logo.png){width="100"}
 
-# Informational Sheet
+# GoodGrain Project *Home Baking Evaluation* information
 
-If you are receiving this Informational Sheet, it means you have expressed interest in conducting a home baking evaluation using a new perennial variety of rye. **Thank you!**
+You can read the Informational Sheet here: [Informational Sheet (English PDF)](documents/InfoSheetEnglish.pdf)
 
-This sheet is meant to give you more information about this new variety and the study, so you can decide if you would like to participate. When you expressed interest, you agreed to our data policy, which you can read again here: [GoodGrain General Data Protection Regulation (PDF)](documents/GDPdocument.pdf){target="_blank"}.
+You can watch the Informational Video (which contains the same information as the Informational Sheet) here:
 
-![Reading this *Informational Sheet* is meant to aid you in your decision of whether or not to participate in the GoodGrain Home Baking Evaluation. Attendance to the GoodGrain field day GoodGrain and symposium are optional, and are not required for participation in the Home Baking Evaluation. Image made by Virginia Anne Nichols using Biorender.](images/figure-1.png){fig-cap="Figure 1." width="85%"}
+{{< video https://youtu.be/VjjByt0A9s4 >}}
 
-# What happens next?
+# Other resources
 
-1.  Read this Informational Sheet (OR watch the video).
-2.  After reading (or watching the video), if you decide you would like to participate in our research, *complete the intake form* using the link that was emailed to you.
+When you filled out the 'Expression of Interest' form, you agreed to our data policy, which you can read again here: [GoodGrain General Data Protection Regulation (PDF)](documents/GDPdocument.pdf){target="_blank"}
 
-# An overview of the GoodGrain project
+The results from the perennial rye flour laboratory analysis can be accessed here: [GoodGrain Lab Results (PDF)](documents/LabResults2025.pdf){target="_blank"}
 
-All of the crops commonly used to make bread are annuals (for example wheat, oats, and rye). This means they are sown, produce one grain harvest per year, then must be sown again. If a crop were perennial and lived for several years, it could produce two or three grain harvests from one sowing. This would save the farmer a lot of work (and tractor driving). Furthermore, by allowing the crop to remain in the field for many years without disturbing the soil, the perennial grain could potentially develop more roots, which would be better at taking up nutrients and water, would sequester more carbon and would feed the soil biology. There is more information presented about the idea and the history of perennial grains in the '***For the curious***' section below, as well as in a separate video titled 'For the curious' (under the Video tab).
-
-A few varieties of perennial grains have recently become available, including a perennial rye grain. This new variety is being tested in the field to evaluate how it grows in Denmark, as well as how it impacts the environment as compared to an annual rye crop. The **GoodGrain** project is meant to build on that knowledge by looking specifically at the new perennial rye's grain characteristics.
-
-![](images/GoodGrainProj.png)
-
-One of those characteristics is its baking quality, including how it performs in home baking applications. The objectives of this home baking study are to:
-
-1.  Start to understand the best uses for this perennial rye for home bakers
-2.  Identify some potential perennial rye flour performance areas that require further agronomic or breeding research
-3.  Understand how people feel about baking with perennial rye
-
-It is important to the **GoodGrain** project to engage with our communities in this effort. You can read a bit more about the project [here](https://projects.au.dk/plant2food/funded-projects/goodgrain).
-
-# What is expected of me as a participant in the GoodGrain home baking study?
-
-## Make two versions of a baked good (1 or more days)
-
-As a citizen scientist home baker, we will provide you with either 400 or 800 grams of flour (based on your use needs). Our hope is that you will do a **side-by-side baking experiment**, using the **perennial rye flour** we provide and the **rye flour you normally use**.
-
-You are welcome to mix the rye flour with other grains or flours if that is what you normally do. If you use a rye sourdough starter, you can try to use this rye in it. If you normally make crackers, or pizza dough, or cookies, that is fine too! We want to you to feel free to use the flour to make whatever brings you joy! But we ask that you try to be as scientific as you can, and bake your creation with both the perennial rye, and your normal rye.
-
-![Our hope is that you will do a side-by-side bake, using the perennial rye we provide and the rye you normally use. Image made with the help of AI.](images/figure-2.png)
-
-**Note that you will need to purchase any additional ingredients you need to do your baking.**
-
-## Take notes
-
-You will be provided with a sheet to guide your note-taking during your baking, which you can use to fill out the post-baking survey.
-
-## Fill out post-baking survey (15-30 minutes)
-
-In the post-baking survey, there are three general sections:
-
-1.  Simple demographic information about everyone who was involved in the baking (we know some people may bake on their own, while others may bake with their kids, parents, or partners)
-2.  Questions about any differences you noticed between the product made with the perennial rye and the one made with the annual rye
-3.  Questions about your experience
-
-We estimate the post-baking survey will require between 15-30 minutes to fill out. **Depending on what you chose to bake, this project could take a full day to complete!**
-
-## Receive a small thank you gift
-
-We understand this is a big time commitment, and upon completion of the post-baking survey, you will be sent a small thank you gift 🎁.
-
-# Optional activities
-
-In the summer of 2027, the **GoodGrain** project will also host an event where you can see the perennial rye variety growing in the field in a test plot. In the fall of 2027, there will be a public symposium in Copenhagen to share current knowledge about perennial rye with everyone across the value chain (researchers, breeders, farmers, millers, bakers, and bread eaters). The events will be free and open to the public - we welcome you to attend, but your attendance is completely *optional*.
-
-# Answers to some common questions
-
-### Is it safe to eat?
-
-Yes. The grain used to make the flour you are receiving was tested at an independent laboratory to ensure it is safe for human consumption, as well as to measure the protein content. You can access the lab results (in Danish) here: [GoodGrain Lab Results (PDF)](documents/LabResults2025.pdf){target="_blank"}.
-
-### Is this perennial rye variety genetically modified using new breeding technologies?
-
-No, this variety was developed using traditional breeding methods, involving crossing plants by hand, and making selections based on their physical characteristics. You can read more about it in [this scientific publication from 1986](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-037X.1986.tb00077.x).
-
-### Is this grain organic?
-
-No, Aarhus University does not have any organically certified land due to the costs and additional administrative complexity that would entail. However, this grain was grown without the use of pesticides.
-
-### Can I buy this flour somewhere?
-
-Flour from this perennial rye variety is not currently available commercially. This project is laying the groundwork for a potential commercial release, and your help is appreciated!
-
-# For the curious
-
-Broadly speaking, all plants fall *roughly* into two categories: perennial and annual. Perennial plants live for more than one year, while annual plants do not. In nature, perennial plants are very common. Think of a neighborhood park, or the forest: there will be trees, shrubs, maybe some grass. These are all perennial plants. In contrast, many of the plants in your kitchen garden are annuals, meaning you have to re-plant them every year (for example radishes, lettuce, or cucumbers). This general pattern of ‘perennials in nature, annuals in agriculture’ is actually seen at a global scale. And while we do have a lot of wonderful perennial crops (for example apples, avocados, and coffee), the crops we use the most (and the ones we plant on the most land) are annuals, as you can see in the figure below.
-
-![In nature only 6% of the plant species are annual. Early human farmers seemed to prefer annuals, as 42% of the plants we have domesticated in some way are annuals. While less than half of the plants we have domesticated are annuals, most of our agricultural land is planted to annuals. This is because most of the calories humans consume derive from annual crops such as maize, rice, potatoes, and wheat. Crops we commonly use to make breads in Denmark (wheat, oats, rye) are all annual crops. Figure created by Virginia Anne Nichols.](images/figure-3.png){fig-cap="Figure 2."}
-
-Are annual plants superior to perennials for food production? Did humans *deliberately* choose to domesticate annual crops? Or was it just coincidence? These questions are currently being debated. However, regardless of how we got here, it is clear that having more perennials integrated into our agricultural land would be good for the environment. This is because perennials tend to offer benefits to the overall environment; their extensive roots allow them to use resources like water and nitrogen more efficiently, they help put carbon into the soil, and they provide soil cover year-round. Creating perennial versions of our staple crops, like the perennial rye used in this project, is one way to get more perennials onto our agricultural land.
-
-Societies have long recognized the potential benefits of a perennial grain. There have been efforts to breed perennial wheat in the Soviet Union since the 1930s! In the past, it has been a very difficult task, mainly because scientists had few tools to see what was going on inside the plant’s genetics. Despite these challenges, a few laboratories got lucky and had some successes, including one in Germany at the University of Hohenheim. There, in the 1960s, Dr. Reimann-Philips and his team successfully crossed an annual rye with a old perennial rye ancestor. The team tested the results, and made more selections. The resulting crop was perennial (see figure below), and in the 1990s it was submitted to be considered as a variety in Germany.
-
-![Annual rye is sown in the fall, and the crop dies in late summer before the grain is harvested. Perennial rye is also sown in the fall, and while the growth from that year dies and grain is harvested just like in the annual crop, the roots stay alive and the crop regrows after harvest. This new growth acts just like a crop that is sown in the fall…except you didn’t have to sow it. Image made by Virginia Anne Nichols using Biorender.](images/figure-4.png){fig-cap="Figure 3."}
-
-The German government rejected the application for complicated reasons, and it was never released as a variety. The breeders maintained some plots as their passion project, and while some of the material was later released as a wildlife forage crop, the perennial rye hasn’t received full attention for the past thirty years. In 2023, Dr. Thomas Miedaner, who took over the University of Hohenheim’s rye breeding program after Dr. Reimann-Philips’ passing, shared some seeds of this crop with several researchers at Aarhus University. We think the idea of a perennial rye has a lot of potential in Denmark!
-
-In 2025 we tested the perennial rye side-by-side against a high-yielding annual rye. We were very impressed when it produced half of the grain yield of the modern annual rye, given that it was crossed with varieties from the 1960s! The perennial rye produced grain again in 2026, but we need more research to determine the optimal way to manage the crop. We think this variety deserves more development, and this grant is part of that effort. One of the goals of the grant is to understand how this new perennial rye performs in home kitchens, and to understand how people feel about eating a perennial grain.
-
-# Funding and project partners
-
-This project is part of a Novo Nordisk Fonden Plant2Food research project (Grant #NNF22SA0081019) being conducted at the [Department of Agroecology](https://agro.au.dk/en/) and [Department of Food Science](https://food.au.dk/) at Aarhus University in Denmark in collaboration [Wageningen University and Research](https://www.wur.nl/en/persons/lr-laura-righetti) in the Netherlands, and with [Meyers](https://meyers.dk/), a prominent Danish food enterprise. As mentioned above, you can read a bit more about the GoodGrain project [here](https://projects.au.dk/plant2food/funded-projects/goodgrain).
-
-# 
+The perennial rye variety was developed in Germany and is described in [this scientific publication from 1986](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-037X.1986.tb00077.x). It is a rather dense piece of text.

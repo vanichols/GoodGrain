@@ -1,10 +1,8 @@
 ![](images/GoodGrain%20logo.png){width="100"}
 
-# Informational Video
+# For the Curious
 
-You can watch the Informational Video here:
-
-{{< video https://youtu.be/VjjByt0A9s4 >}}
+You can read the For the Curious sheet in English here: [For the Curious (English PDF)](documents/CuriousEnglish.pdf)
 
 You can watch the For the Curious Video here:
 
